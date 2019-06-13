@@ -1,0 +1,14 @@
+Juana: madre de 2 hijos que trabaja en dias habiles quiere llevar a sus hijos a ver un partido que juega su equipo
+favorito
+
+Josefina: Madre de 2 hijos, Uno de sus hijos le pregunta que equipos juegan este fin de semana.
+
+Martin:un niño de 15 años quiere ver quien es el goleador actualmente del torneo.
+
+Rodrido: padre con 1 hijo, quiere llevar a su hijo a ver el partido este fin de semana pero este fin de semana
+hay probabilidad de que llueva, quiere ver si se juega.
+
+rosio: madre de 1 hija que trabaja 6 dias a la semana , su hijo quiere ir a ver el partido un dia que no puede pero
+su padre tampoco puede, entonces su madre se fija si su vecino o alguien puede llevarlo.
+
+
