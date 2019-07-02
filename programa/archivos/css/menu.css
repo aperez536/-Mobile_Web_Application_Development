@@ -1,0 +1,18 @@
+/**
+ * @Date:   2019-07-02T15:09:20-03:00
+ * @Last modified time: 2019-07-02T16:08:21-03:00
+ */
+
+
+
+.navbar.navbar-5 .navbar-toggler-icon {
+	background-image: url('https://mdbootstrap.com/img/svg/hamburger5.svg?color=f3e5f5');
+	background-color: darkslateblue;
+	}
+	body{
+		background:  url(imagen/pastoVerde.jpg) no-repeat center fixed;
+		-webkit-background-size cover;
+		-moz-background-size cover;
+		-o-background-size cover;
+		background-size: cover;
+	}
