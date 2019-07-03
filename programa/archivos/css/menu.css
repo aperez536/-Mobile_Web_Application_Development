@@ -1,6 +1,6 @@
 /**
  * @Date:   2019-07-02T15:09:20-03:00
- * @Last modified time: 2019-07-02T16:08:21-03:00
+ * @Last modified time: 2019-07-02T22:13:31-03:00
  */
 
 
@@ -10,9 +10,9 @@
 	background-color: darkslateblue;
 	}
 	body{
-		background:  url(imagen/pastoVerde.jpg) no-repeat center fixed;
-		-webkit-background-size cover;
-		-moz-background-size cover;
-		-o-background-size cover;
+		background: no-repeat center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
 		background-size: cover;
 	}
