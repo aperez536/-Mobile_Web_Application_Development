@@ -13,14 +13,18 @@
 
         this.database.collection('Jugadores').get().then(( snapshot ) => {
           snapshot.docs.forEach(doc =>{
-             var jugador;
-             
+             var jugador;             
              jugador = doc.data();
              //agrego al array
              this.listaDeJugadores.push(jugador);
+             
+            });
+            this.listaDeJugadores.sort(function(a, b) {
+              return b.Goles - a.Goles;
            })
+           
           })
-
+          
       },
       //otro metodo
     },
